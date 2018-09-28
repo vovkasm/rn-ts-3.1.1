@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "lib": ["es2015", "es2016"],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "preserveSymlinks": true,
+    "strict": true,
+    "target": "es2015",
+    "importHelpers": true,
+    "baseUrl": ".",
+    "typeRoots": ["types"],
+    "types": ["react", "react-native"]
+  },
+  "exclude": ["node_modules"]
+}
