@@ -16,8 +16,6 @@
     "target": "es2015",
     "importHelpers": true,
     "baseUrl": ".",
-    "typeRoots": ["types"],
-    "types": ["react", "react-native"]
   },
   "exclude": ["node_modules"]
 }
